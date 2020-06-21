@@ -3,8 +3,11 @@
 Hi! It's my study about Laravel 7 using Docker (Compose file version 3.5)
 
 MySQL 5.7
+
 PHP 7.2
+
 Apache 2.4.38 
+
 Debian 10.4
 
 I've created simple crud for Contacts to study how to use MVC pattern, Migration and Route which has attributes:
