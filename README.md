@@ -24,18 +24,29 @@ This study is based on these articles
 # Commands to execute outside of the container
 
 `docker-compose build`
+
 `docker-compose up -d`
+
 `docker exec -it laravel-app bash -c "sudo -u devuser /bin/bash" `
 
 # Commands to execute inside of the container
 
 `composer install`
+
 `php artisan key:generate`
+
 `php artisan migrate`
+
 `composer require laravel/ui`
+
 `php artisan ui vue `
+
 `npm install && npm run dev`
+
 `php artisan ui bootstrap`
+
 `npm install && npm run dev`
+
 `npm uninstall popper.js && npm i @popperjs/core`
+
 `npm install popper.js –save`
