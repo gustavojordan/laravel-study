@@ -10,14 +10,7 @@ Apache 2.4.38
 
 Debian 10.4
 
-I've created simple crud for Contacts to study how to use MVC pattern, Migration and Route which has attributes:
-
-first_name',  
-'last_name',  
-'email',  
-'city',  
-'country',  
-'job_title'
+I've created simple crud for Contacts to study how to use MVC pattern, Migration and Route which has attributes: first_name, last_name, email, city, country, job_title.
 
 This study is based on these articles
 
